@@ -1,0 +1,31 @@
+/*Css template*/
+
+.box{
+	margin-top: 5px;
+	min-height: 100px;
+	background-color: #C70039;
+	font-size: 50px;
+
+}
+
+.item{
+	min-height: 100px;
+	background-color: #C70039;
+	font-size: 50px;
+}
+.start101{
+	margin-top: 5px;
+	min-height: 300px;
+	background-color: #581845;
+}
+.center101{
+	margin-top: 5px;
+	min-height: 300px;
+	background-color: #FF5733;
+}
+.end101{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	min-height: 300px;
+	background-color: #184A45FF;
+}
